@@ -16,11 +16,11 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # Настройки
-TELEGRAM_BOT_TOKEN = '8025479719AAGx0sGo-YIZKdSyUxGLJ9Z0ptI6YNwrd_k'  # Ваш токен
+TELEGRAM_BOT_TOKEN = '8************'  # Ваш токен
 CHECK_INTERVAL_MINUTES = 2  # Интервал проверки записей в минутах
 
 # Глобальная переменная для хранения chat_id
-CHAT_ID = 709852580
+CHAT_ID = *******
 
 # Список директорий для проверки записей ZoneMinder
 DIRECTORIES_TO_CHECK = [
